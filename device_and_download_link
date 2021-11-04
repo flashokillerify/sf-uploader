@@ -1,5 +1,5 @@
 #device is the folder where rom will be uploaded in sourceforge, like "mido" or "RMX1851"
 #download_link is the link from where script will download the build and upload that file in sourceforge. Put link inside that ""
 
-device="beryllium"
-download_link="https://uploads.xeo.workers.dev/1:/ProjectElixir_1.0_beryllium-12.0-20211103-1505-BETA-OFFICIAL.zip"
+device="miatoll"
+download_link="https://drive.google.com/u/0/uc?export=download&confirm=NWEd&id=1Wz_Mu48fEoRo8YFIqtbI33ie7QFjeNE6"
