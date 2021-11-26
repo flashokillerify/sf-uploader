@@ -1,5 +1,5 @@
 #device is the folder where rom will be uploaded in sourceforge, like "mido" or "RMX1851"
 #download_link is the link from where script will download the build and upload that file in sourceforge. Put link inside that ""
 
-device="RMX2020"
-download_link="https://true-mirror-69.gitsauraj.workers.dev/0:/ProjectElixir_1.1_RMX2020-12.0-20211123-0626-OFFICIAL.zip"
+device="sweet"
+download_link="https://drive.google.com/u/0/uc?export=download&confirm=FL_O&id=1S0biFlMmsAd7LZPhQdnUvCiKjXwOZRtZ"
