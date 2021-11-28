@@ -1,5 +1,5 @@
 #device is the folder where rom will be uploaded in sourceforge, like "mido" or "RMX1851"
 #download_link is the link from where script will download the build and upload that file in sourceforge. Put link inside that ""
 
-device="violet"
-download_link="https://sauraj.rommirrorer.workers.dev/0:/ppui/violet/ProjectElixir_1.1_violet-12.0-20211127-1027-OFFICIAL.zip"
+device="cepheus"
+download_link="https://drive.google.com/uc?export=download&confirm=EzXs&id=14CK8menulE1Cd0sAKPHwU4tmo4cZKAEx"
