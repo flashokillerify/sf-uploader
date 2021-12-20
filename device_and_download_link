@@ -1,5 +1,5 @@
 #device is the folder where rom will be uploaded in sourceforge, like "mido" or "RMX1851"
 #download_link is the link from where script will download the build and upload that file in sourceforge. Put link inside that ""
 
-device="sweet"
-download_link="https://true-mirror-69.gitsauraj.workers.dev/0:/ProjectElixir_1.2_sweet-12.0-20211212-0342-OFFICIAL.zip"
+device="violet"
+download_link="https://true-mirror-69.gitsauraj.workers.dev/0:/ProjectElixir_1.2_violet-12.0-20211220-1608-OFFICIAL.zip"
