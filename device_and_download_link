@@ -1,5 +1,5 @@
 #device is the folder where rom will be uploaded in sourceforge, like "mido" or "RMX1851"
 #download_link is the link from where script will download the build and upload that file in sourceforge. Put link inside that ""
 
-device="sweet"
-download_link="https://drive.google.com/u/0/uc?export=download&confirm=HJe3&id=1WaTdFp1AM4wzsEBbSTPjORFikwemWEQr"
+device="Realme5series"
+download_link="https://royalking.prashantroyal.workers.dev/0:/ProjectElixir_1.2_r5x-12.0-20211221-1105-OFFICIAL.zip"
