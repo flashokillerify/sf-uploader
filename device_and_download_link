@@ -1,5 +1,5 @@
 #device is the folder where rom will be uploaded in sourceforge, like "mido" or "RMX1851"
 #download_link is the link from where script will download the build and upload that file in sourceforge. Put link inside that ""
 
-device="alioth"
-download_link="https://drive.google.com/u/0/uc?export=download&confirm=B0By&id=1aUH53NfE7ojpkEST5bfJGbFevVrg1wiP"
+device="vayu"
+download_link="https://true-mirror-69.gitsauraj.workers.dev/0:/ProjectElixir_1.2_vayu-12.0-20211220-0249-OFFICIAL.zip"
