@@ -1,5 +1,5 @@
 #device is the folder where rom will be uploaded in sourceforge, like "mido" or "RMX1851"
 #download_link is the link from where script will download the build and upload that file in sourceforge. Put link inside that ""
 
-device="phoenix"
-download_link="https://drive.google.com/u/0/uc?id=1Fn2panI8SpP7w4M_xdr75En-glsiVafW&export=download"
+device="tissot"
+download_link="https://drive.google.com/uc?id=1ikr8ZNhaMlclZY86we5tA403jfqEX6On&export=download"
