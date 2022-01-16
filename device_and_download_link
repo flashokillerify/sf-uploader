@@ -1,5 +1,5 @@
 #device is the folder where rom will be uploaded in sourceforge, like "mido" or "RMX1851"
 #download_link is the link from where script will download the build and upload that file in sourceforge. Put link inside that ""
 
-device="tulip"
-download_link="https://bot.walkingstatue08.workers.dev/0:/ProjectElixir_1.2_tulip-12.0-20220104-1349-OFFICIAL.zip"
+device="picasso"
+download_link="https://drive.google.com/u/0/uc?id=1zBu1vxNwfGgYFUhSiBg4nZntR80yAImw&export=download"
