@@ -1,5 +1,5 @@
 #device is the folder where rom will be uploaded in sourceforge, like "mido" or "RMX1851"
 #download_link is the link from where script will download the build and upload that file in sourceforge. Put link inside that ""
 
-device="crownlte"
-download_link="https://downloads.projectelixiros.com/twelve/crownlte/ProjectElixir_1.3_crownlte-12.0-20220115-1607-OFFICIAL.zip"
+device="starlte"
+download_link="https://downloads.projectelixiros.com/twelve/starlte/ProjectElixir_1.3_starlte-12.0-20220115-1827-OFFICIAL.zip"
