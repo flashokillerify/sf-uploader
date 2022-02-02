@@ -1,5 +1,5 @@
 #device is the folder where rom will be uploaded in sourceforge, like "mido" or "RMX1851"
 #download_link is the link from where script will download the build and upload that file in sourceforge. Put link inside that ""
 
-device="whyred"
-download_link="https://downloads.projectelixiros.com/twelve/whyred/ProjectElixir_1.3_whyred-12.0-20220123-0843-OFFICIAL.zip"
+device="lavender"
+download_link="https://downloads.projectelixiros.com/twelve/lavender/ProjectElixir_1.3_lavender-12.0-20220201-1350-OFFICIAL.zip"
